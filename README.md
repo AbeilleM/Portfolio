@@ -22,10 +22,13 @@ Je sais travailler en groupe, ce qui est important lors de la conception d’un 
 **Programmation :**
 Bien entendu, pour concevoir un jeu, il faut savoir le développer. Lors de mes cours au lycée, puis en IUT informatique, j'ai pu voir et apprendre les bases du développement, c'est à dire les normes, comment les utiliser, les différents outils qui pourront me permettre de développer correctement des programmes informatiques ainsi que quelques types de langages différents, de développement tel que Python, le langage de programmation orienté objet Java ou même de développement mobile tel que Kotlin ou Xamarin.
 
+
+
 **Dessin :**
 Dans le milieu du jeu vidéo, le dessin peut être une compétence utile. En effet, cette compétence est un plus car elle peut aider à la conception des différents personnages d'un jeu, ce qui fait que le jeu est vivant avec de mignonnes créatures par exemple. Mais aussi pour la conception de niveau avec des schémas clairs, sans ambiguïté. Enfin cela peut aussi servir pour créer des illustrations pour le jeu, comme la couverture par exemple.
-#
+  
 Liens pour retrouver des exemples :
+  
 ArtStation : https://www.artstation.com/abeillemagique
-#
+  
 Instagram : https://www.instagram.com/abeille.ma/
