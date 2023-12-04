@@ -42,7 +42,7 @@ J'ai également une très bonne maîtrise de l'anglais, étant une langue très 
 
 Comme je l'ai dit, je suis une personne très créative, j'ai une imagination débordante, mais je suis aussi très curieuse et j'aime me cultiver de différentes manières, par les films, les livres, la musique ou les jeux par exemple. Cette culture me permet d'échanger plus facilement avec d'autres personnes, ce qui me permet de plus facilement travailler en groupe, partager des idées, en écouter et en discuter afin d'améliorer le projet sur lequel nous travaillons. J'ai aussi la capacité à m'adapter facilement à des environnements nouveaux, par exemple un nouveau lieu de travail ou travailler sur un projet déjà existant.
 
-##Mes passions
+## Mes passions
 
 - **Dessin :**
 
