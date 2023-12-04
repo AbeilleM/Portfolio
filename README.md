@@ -1,34 +1,55 @@
 # Portfolio
 
-# Qui suis-je ?
+Bonjour et bienvenu sur mon Portfolio. C'est ici que je vais présenter mes compétences, des passe-temps utiles ainsi que quelques projets que j'ai pu réaliser durant ces dernières années.
 
-Actuellement étudiante en BUT Informatique, je souhaite travailler dans le milieu du jeu vidéo. 
-En effet, depuis le début du collège, j'ai travaillé à intégrer le monde de l'informatique afin de pouvoir un jour créer, concevoir des jeux vidéo.
-La curiosité de découvrir ce qu'il y a autour de moi et d'en savoir plus ainsi que ma détermination, qui sont mes principales qualités m'ont permis d'accéder au BUT Informatique. Je compte aussi sur ma grande créativité pour me permettre d'aller plus loin encore.
+## Qui suis-je ?
 
-Lorsque je ne travaille pas l'informatique, je pratique le dessin et j'aime écrire toute sorte de choses : histoires, présentations de choses diverses au travers d'articles.
-Après le lycée, je suis devenue titulaire du baccalauréat avec les spécialités mathématiques et numérique et sciences informatiques, ainsi qu'avec les options mathématiques expertes. J'ai aussi participé aux cours d'anglais européen ce qui m'a permis d'obtenir une mention européenne.
+Tout d'abord, qui suis-je ? Je m'appelle Maïa LORIDAN, je suis actuellement étudiante en 3e année de BUT Informatique et j'ai pour objectif de développer un jeu vidéo de mes propres mains. Je suis également ouverte à toute sorte de projet de développement d'applications informatiques, peu importe le domaine et les technologies utilisées.
 
-# Mes Objectifs :
-Développeuse de jeux vidéo :
+J'ai aussi des compétences, des qualités et quelques passions en plus, que je vous présenterais plus tard, qui m'aident à atteindre mon objectif final.
 
-**Pourquoi ?**
-Depuis toute petite, les jeux vidéo me passionnent, j’aime imaginer des histoires, des personnages, des univers qui pourraient prendre vie dans un jeu vidéo. De plus, j’aime proposer mes idées et les voir se réaliser.
+## Mes objectifs
 
-**En quoi cela me correspond ? Mes compétences ?**
-Je sais travailler en groupe, ce qui est important lors de la conception d’un jeu vidéo. J’écoute les idées des uns et des autres et en discute pour les améliorer ensemble. Je suis aussi curieuse et créative, j’ai très souvent des idées et ma curiosité m’aide à les développer grâce à ma culture qui s'enrichit tous les jours. Le milieu du jeu vidéo est, la plupart du temps, anglais, et je peux qualifier mon niveau en cette langue comme très bon. Enfin, je sais développer des programme  pour des applications ou applications mobiles, pouvant être vidéoludique. J’ai participé par exemple à l’élaboration d’un Puissance 4 avec le langage de programmation Python. J’ai aussi des connaissance en base de données qui pourraient me permettre d’aider pour le développement de jeux vidéo. 
+Depuis très jeune, les jeux vidéo me passionnent : pourquoi appuyer sur un bouton permet de faire bouger le personnage ? Comment surviennent les différents événements de l'histoire ? Toutes ces questions m'ont conduites dans l'informatique, et plus particulièrement le développement d'application en tout genre. J'y ai appris comment faire tourner des fonctions en appuyant sur un simple bouton ou encore permettre à l'utilisateur d'une application à entrer des données et les stocker s'il en a besoin. C'est pourquoi mon objectif principal est de travailler dans l'informatique afin d'aider et des simplifier les tâches de différentes personnes.
 
-# Mes compétences :
-**Programmation :**
-Bien entendu, pour concevoir un jeu, il faut savoir le développer. Lors de mes cours au lycée, puis en IUT informatique, j'ai pu voir et apprendre les bases du développement, c'est à dire les normes, comment les utiliser, les différents outils qui pourront me permettre de développer correctement des programmes informatiques ainsi que quelques types de langages différents, de développement tel que Python, le langage de programmation orienté objet Java ou même de développement mobile tel que Kotlin ou Xamarin.
+Cependant, un objectif qui me tient très à coeur est la réalisation de mon propre jeu vidéo. En effet, ce monde me passionne par ses histoires, ses univers mais aussi ses différents style de jeux. Étant une personne très créative, j'ai le besoin de raconter les histoires que j'imagine, de mettre en scène des personnages et d'à mon tour de permettre aux différents joueurs de rêver d'histoires et d'aventures.
 
+## Mes différents compétences et qualités
 
+Ayant étudié et travailler sur des projets informatiques, je possèdes des compétences dans les langages de programmation triés et cités ci-dessous :
 
-**Dessin :**
-Dans le milieu du jeu vidéo, le dessin peut être une compétence utile. En effet, cette compétence est un plus car elle peut aider à la conception des différents personnages d'un jeu, ce qui fait que le jeu est vivant avec de mignonnes créatures par exemple. Mais aussi pour la conception de niveau avec des schémas clairs, sans ambiguïté. Enfin cela peut aussi servir pour créer des illustrations pour le jeu, comme la couverture par exemple.
+- **Le développement :**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+
+- **Le Web :**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+- **La gestion de base de données :**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+J'ai également une très bonne maîtrise de l'anglais, étant une langue très utilisée dans l'informatique, avec l'obtention de la mention européenne lors du baccalauréat.
+
+Comme je l'ai dit, je suis une personne très créative, j'ai une imagination débordante, mais je suis aussi très curieuse et j'aime me cultiver de différentes manières, par les films, les livres, la musique ou les jeux par exemple. Cette culture me permet d'échanger plus facilement avec d'autres personnes, ce qui me permet de plus facilement travailler en groupe, partager des idées, en écouter et en discuter afin d'améliorer le projet sur lequel nous travaillons. J'ai aussi la capacité à m'adapter facilement à des environnements nouveaux, par exemple un nouveau lieu de travail ou travailler sur un projet déjà existant.
+
+##Mes passions
+
+- **Dessin :**
+
+L'un de mes passe-temps préféré est le dessin. C'est une activité qui peut se transformer en compétence dans le cadre de la réalisation de jeux vidéo, ou tout simplement lorsque c'est nécessaire dans le cadre du développement d'une application.
   
-Liens pour retrouver des exemples :
-  
-ArtStation : https://www.artstation.com/abeillemagique
-  
-Instagram : https://www.instagram.com/abeille.ma/
+Voici quelques liens pour aller voir des exemples :
+
+- [ArtStation](https://www.artstation.com/abeillemagique)
+
+- [Instagram](https://www.instagram.com/abeille.ma/)
