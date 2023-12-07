@@ -53,3 +53,23 @@ Voici quelques liens pour aller voir des exemples :
 - [ArtStation](https://www.artstation.com/abeillemagique)
 
 - [Instagram](https://www.instagram.com/abeille.ma/)
+
+## Des Réalisations
+
+Durant ces différentes années d'informatique, j'ai pu réaliser quelques projets de différents type. 
+
+- **Applications :**
+
+J'ai notamment réaliser des mini-jeux en Python, comme par exemple un puissance 4, un jeu de devinette de nombre ou encore le jeu des allumettes. J'ai également réalisé avec un équipe un programme permettant de générer des images en trois dimensions à l'aide de lancer de rayon en C++.
+
+- **Applications Mobiles :**
+
+J'ai créé deux applications mobiles, l'une étant une "To Do list" développée en Kotlin, permettant de répertorier les tâches à réaliser ainsi que les dates butoires pour les accomplir. L'autre application utilisait des fonctionnalités de Spotify afin de regrouper des informations sur un artiste, un de ses albums et ses musiques, elle a été développée en Xamarin.
+
+- **Web :**
+
+Enfin, j'ai réalisé deux projets web : le premier était un site de partage de créations pour les artistes, développer à l'aide du Framework Symfony, en PHP.
+
+Le deuxième projet était un site de création de personnages et de scénario pour des joueurs afin de faciliter la création de jeux de rôles.
+
+## Merci d'avoir lu mon Portfolio
